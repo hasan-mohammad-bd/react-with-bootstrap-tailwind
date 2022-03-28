@@ -23,6 +23,10 @@ bootstrap
 
 #every component must be imported from the react bootstrap.
 ==============================================
- 
+ #making chart
+ =============================
+ go to rechart.find the. 
+ install it > find the example > do it accordingly.
 
+ #must watch the axios videos.
  */
